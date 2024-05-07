@@ -12,7 +12,7 @@ This project comprises a VBA script designed tp systematically analyze stock dat
 To utilize the script:
 - Ensure the Excel workbook containing the <code style="color : blue">[Stock Data]()</code>  is open
 - Navigate to the VBA editor
-- Download the provided script file from <code style="color : blue">[VBA_Challenge Script_File](Script_File/stock_data_script.gitkeep.txt)</code>
+- Download the provided script file from <code style="color : blue">[VBA_Challenge Script_File](Script_File/stockData_script_Erna.gitkeep.txt)</code>
 - Paste the provided script into a new module
 - Run the script to generate the desired outputs.
 ## Note
