@@ -10,9 +10,9 @@ This project comprises a VBA script designed tp systematically analyze stock dat
 7. **Visual Data Representation**: To facilitate intuitive data interpretation, the script incorporates conditional formatting. Positive changes are highlighted in green, while negative changes are highlighted in red. This visual cue assists users in identifying trends and patterns effortlessly.
 ## Usage
 To utilize the script:
-- Ensure the Excel workbook containing the <code style="color : blue">[Stock Data]()</code>  is open
+- Ensure the Excel workbook containing the <code style="color : blue">[Stock Data](Copy of Multiple_year_stock_data.xlsm)</code>  is open
 - Navigate to the VBA editor
-- Download the provided script file from <code style="color : blue">[VBA_Challenge Script_File](Script_File/stockData_script_Erna.gitkeep.txt)</code>
+- Download the provided script file from <code style="color : blue">[VBA_Challenge Script_File](Copy of Multiple_year_stock_data.xlsm)</code>
 - Paste the provided script into a new module
 - Run the script to generate the desired outputs.
 ## Note
