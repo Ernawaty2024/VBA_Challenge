@@ -1,4 +1,4 @@
-# VBA Challenge
+# Stock Data Analysis using VBA 
 ## About The Project
 This project comprises a VBA script designed to systematically analyze stock data across various quarters. The script loops through all stocks for each quarter, extracting crucial information and generating insightful outputs:
 1. **Ticker Symbol Extraction**: The script retrieves the ticker symbols for each stock.
@@ -12,7 +12,7 @@ This project comprises a VBA script designed to systematically analyze stock dat
 To utilize the script:
 - Ensure the Excel workbook containing the <code style="color : blue">[Stock Data](Multiple_year_stock_data.xlsm)</code> is open
 - Navigate to the VBA editor
-- Run the script to generate the desired outputs.
+- Run the script <code style="color : blue">[Stock_Data_Script](https://github.com/Ernawaty2024/VBA_Challenge/blob/main/Stock_Data_Script.bas)</code> to generate the desired outputs.
 ## Note
 This script assumes that the stock data is organized in a structured format within an Excel workbook. Adjustments may be required based on the specific layout of the data.
 ## Credit
